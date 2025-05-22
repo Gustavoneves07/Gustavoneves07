@@ -42,7 +42,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavoneves07&theme=jolly)"
   />
   <img
     height=165
