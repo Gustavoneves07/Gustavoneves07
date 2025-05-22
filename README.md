@@ -48,7 +48,7 @@
       height="165"
       align="center"
       alt="GitHub Stats"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavoneves07&theme=jolly"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gustavoneves07&theme=jolly"
     />
     <div align="center">
     <img
