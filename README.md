@@ -45,11 +45,13 @@
       alt="GitHub Stats"
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavoneves07&theme=jolly"
     /><img
+        .--.--.
       height="165"
       align="center"
       alt="GitHub Stats"
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gustavoneves07&theme=jolly"
     />
+    .--.--.
     <div align="center">
     <img
       height="165"
@@ -62,6 +64,7 @@
       alt="Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoneves07&layout=compact&theme=tokyonight"
     />
+      .--.--.
     <br><br>
     <img
       height="154"
