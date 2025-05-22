@@ -63,7 +63,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
+    src="<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gustavoneves07&theme=jolly&hide_border=true" alt="GitHub Streak" /></a>"
   />
   </div>
 
