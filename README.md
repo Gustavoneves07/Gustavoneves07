@@ -44,6 +44,11 @@
       align="center"
       alt="GitHub Stats"
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavoneves07&theme=jolly"
+    /><img
+      height="165"
+      align="center"
+      alt="GitHub Stats"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavoneves07&theme=jolly"
     />
     <div align="center">
     <img
@@ -62,7 +67,7 @@
       height="154"
       align="center"
       alt="GitHub Streak"
-      src="https://github-readme-streak-stats.herokuapp.com?user=Gustavoneves07&theme=jolly&hide_border=true"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gustavoneves07&theme=jolly&utcOffset=8"
     />
   </div>
 
