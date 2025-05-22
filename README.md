@@ -45,6 +45,12 @@
       alt="GitHub Stats"
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavoneves07&theme=jolly"
     />
+    <div align="center">
+    <img
+      height="165"
+      align="center"
+      alt="GitHub Stats"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavoneves07&theme=jolly"
     <img
       height="165"
       align="center"
