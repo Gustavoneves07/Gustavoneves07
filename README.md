@@ -42,20 +42,22 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavoneves07&theme=jolly)
+"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavoneves07&theme=jolly)
+"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+    src=![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavoneves07&theme=jolly)"
   />
   <br>
   <br>
@@ -63,7 +65,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
+    src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gustavoneves07&theme=jolly&hide_border=true)](https://git.io/streak-stats)"
   />
   </div>
 
