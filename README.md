@@ -2,9 +2,7 @@
 
 <div align="center">
   <samp>
-    <b>
-      システムアナリスト
-    </b>
+    <b>システムアナリスト</b>
     <br>
     Hi there! I'm Gustavo Neves
     <br>
@@ -12,15 +10,15 @@
 </div>
 
 <div align="center">
-  <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoneves07&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-  </p> 
+  <p>
+    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoneves07&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p>
 </div>
-      
+
 <br><br>
-      
+
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RyeTNlOWpuZDVtMTk0YmJpd29jeXR5NGxwemZ6ZW5qZThpN2QzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RyeTNlOWpuZDVtMTk0YmJpd29jeXR5NGxwemZ6ZW5qZThpN2QzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </div>
 
 <div align="center" width="100%">
@@ -31,47 +29,27 @@
 
 <details align="center">  
   <summary>
-    <samp>
-      <b>More Info</b>
-    </samp>
+    <samp><b>More Info</b></samp>
   </summary>
-  
+
   <br>
 
   <div align="center">
-    <img
-      height="165"
-      align="center"
-      alt="GitHub Stats"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavoneves07&theme=jolly"
-    /><img
-      height="165"
-      align="center"
-      alt="GitHub Stats"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gustavoneves07&theme=jolly"
-    />
-    <div align="center">
-    <img
-      height="165"
-      align="center"
-      alt="GitHub Stats"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavoneves07&theme=jolly"
-    <img
-      height="165"
-      align="center"
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoneves07&layout=compact&theme=tokyonight"
-    />
-    <br><br>
-    <img
-      height="154"
-      align="center"
-      alt="GitHub Streak"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gustavoneves07&theme=jolly&utcOffset=8"
-    />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavoneves07&theme=jolly"/>
+    <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gustavoneves07&theme=jolly"/>
   </div>
 
-  <div align="center" style="display: inline_block"><br>
+  <br>
+
+  <br>
+
+  <div align="center">
+    <img height="154" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gustavoneves07&theme=jolly&utcOffset=8"/>
+  </div>
+
+  <br>
+
+  <div align="center" style="display: inline-block;"><br>
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
@@ -85,19 +63,32 @@
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
   </div>
 
-  <br>
-
-  ##
+  <br><br>
 
   <div align="center">
-    <samp>
-      <b>Contact me:</b>
-    </samp>
+    <samp><b>Contact me:</b></samp>
     <br><br>
+    <a href="mailto:kamillymedino2@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff"/>
+    </a>
+    <a href="https://www.instagram.com/kamyzmedino/?next=%2F">
+      <img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff"/>
+    </a>
+    <a href="https://discord.gg/8kc8HqXVw2">
+      <img src="https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff"/>
+    </a>
+    <a href="https://wa.me/5584988964920">
+      <img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff"/>
+    </a>
+    <a href="https://www.linkedin.com/in/kamilly-medino-b72a3b33a/">
+      <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff"/>
+    </a>
   </div>
 
+  <br>
+
   <div align="center">
-    <p align="center">
+    <p>
       <samp>
         ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
         <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
@@ -107,14 +98,8 @@
     </p>
   </div>
 
-  ##
 </details>
 
 <br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
-    [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-    [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-    [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-    [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
